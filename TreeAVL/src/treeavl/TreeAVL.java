@@ -80,13 +80,7 @@ public class TreeAVL {
           System.out.print("Entr your Answer : "); 
           start = input.nextInt() ;
       }
-      // */
-        /*
-        عمل الطالبات
-            هتان عبدالله
-            رنا عبدالله
-            بيلسان دخيل
-      */
+     
       
         
       
@@ -98,3 +92,4 @@ public class TreeAVL {
         
     }
 }
+
